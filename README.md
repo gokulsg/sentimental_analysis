@@ -1,2 +1,2 @@
 # sentimental_analysis
-This repository contains code and documentations for sentimental analysis of movie data 
+This repository contains code and documentation for sentimental analysis based on user reviews.
