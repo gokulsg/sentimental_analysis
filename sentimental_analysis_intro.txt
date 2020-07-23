@@ -1,0 +1,19 @@
+Any opinion or review given by an individual through which the feelings, attitudes and thoughts can be expressed is known as the sentiment. Nowadays, usage of the internet has been increased drastically and people can express the views and opinions about the product on the internet in the form of reviews.
+
+For example, if we purchase a product on an e-commerce website, we will be prompted to give reviews about the product. These reviews can express what do we feel about the product and these reviews can help other customers who considered buying the same product which we bought earlier. If the reviews of the product are good then new customer moves forward in buying the product. Else he will look for other products in the same category.
+
+These reviews are very helpful not only to the customers but also to the companies. These reviews are a valuable source of information through which the companies know what the customer thinks about the product and what the customers needs. By knowing this, the companies can tailor the products that match customer preference.
+
+As a result of this, the customer will start liking the product and also attract new customers to buy the product leading to an increase in revenue of the company.
+
+Today in this modern world millions of reviews are generated per day. It will be a tedious process for a person to manually read and understand the sentiment conveyed by the reviews and also require lots of human power.
+
+To solve this problem, the sentimental analysis comes into action.
+
+Sentiment analysis is contextual mining of text which identifies and extracts subjective information in the source material and helping a business to understand the social sentiment of their brand, product. Sentiment Analysis is used to discover people’s opinions, emotions and feelings about a product or service. It is a computational study of opinions, sentiments, attitudes, views, emotions, etc. expressed in the text.
+
+This text can be in a variety of formats like Reviews, Blogs, News or Comments. Sentiment analysis helps to detect polarity within a text (e.g. a positive or negative opinion), whether it’s a whole document, paragraph, sentence, or clause.
+
+Sentiment analysis is also used for quickly gaining insights using large volumes of text data which can help improve the quality of service and can make companies earn huge profits. This Sentimental analysis can be used across multiple domains and highly powerful.
+
+Sentiment analysis has many names like Opinion Mining, Sentiment Mining and Subjectivity Analysis.
